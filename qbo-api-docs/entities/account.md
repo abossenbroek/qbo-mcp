@@ -171,10 +171,8 @@ Specifies the balance amount for the current Account. Valid for Balance Sheet ac
     "CurrentBalanceWithSubAccounts": 0, 
     "sparse": false, 
     "MetaData": {
-      "CreateTime": "2014-12
-        -31T09:29:05-08:00", 
-      "LastUpdatedTime": "2014
-        -12-31T09:29:05-08:00"
+      "CreateTime": "2014-12-31T09:29:05-08:00", 
+      "LastUpdatedTime": "2014-12-31T09:29:05-08:00"
     }, 
     "AccountType": "Accounts Receivable", 
     "CurrentBalance": 0, 
@@ -183,8 +181,7 @@ Specifies the balance amount for the current Account. Valid for Balance Sheet ac
     "Id": "94", 
     "SubAccount": false
   }, 
-  "time": "2014-12-31T09:29:05
-    .717-08:00"
+  "time": "2014-12-31T09:29:05.717-08:00"
 }
 ```
 
