@@ -169,8 +169,7 @@ Specifies the balance amount for the current Account. Valid for Balance Sheet ac
         Dollar", 
       "value": "USD"
     }, 
-    "CurrentBalanceWithSubAccoun
-      ts": 0, 
+    "CurrentBalanceWithSubAccounts": 0, 
     "sparse": false, 
     "MetaData": {
       "CreateTime": "2014-12
