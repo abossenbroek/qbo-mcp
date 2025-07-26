@@ -165,8 +165,7 @@ Specifies the balance amount for the current Account. Valid for Balance Sheet ac
     "AccountSubType": 
       "AccountsReceivable", 
     "CurrencyRef": {
-      "name": "United States 
-        Dollar", 
+      "name": "United States Dollar", 
       "value": "USD"
     }, 
     "CurrentBalanceWithSubAccounts": 0, 
@@ -177,8 +176,7 @@ Specifies the balance amount for the current Account. Valid for Balance Sheet ac
       "LastUpdatedTime": "2014
         -12-31T09:29:05-08:00"
     }, 
-    "AccountType": "Accounts 
-      Receivable", 
+    "AccountType": "Accounts Receivable", 
     "CurrentBalance": 0, 
     "Active": true, 
     "SyncToken": "0", 
