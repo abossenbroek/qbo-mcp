@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-07-26T10:30:00.000000",
+  "total": 77,
+  "scraped": 9,
+  "remaining": 68,
+  "scraped_list": [
+    "account",
+    "accountlistdetail",
+    "apagingdetail",
+    "apagingsummary",
+    "aragingdetail",
+    "aragingsummary",
+    "attachable",
+    "balancesheet",
+    "batch"
+  ],
+  "next_batch": [
+    "bill",
+    "billpayment",
+    "budget",
+    "cashflow",
+    "changedatacapture"
+  ]
+}
